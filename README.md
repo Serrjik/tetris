@@ -1,5 +1,4 @@
-# tetris
-Тетрис для 2-ух игроков
+# Тетрис для 2-ух игроков
 
 ![tetris](https://raw.githubusercontent.com/Serrjik/tetris/master/tetris.jpg)
 
